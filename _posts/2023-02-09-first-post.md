@@ -10,56 +10,13 @@ comments: true
 
 ## Hi, welcome! 
 
-Today Pixel came to class and she's so cute! Here's a random photo from my downloads folder as a test :)
+Today Pixel came to class and she's so cute! Here's a random photo of my friends and I doing a puzzle from my downloads folder as a little treat for your eyes :)
 
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![my and my friends!](https://weiweilu081.github.io/img/IMG_9905 Large.jpeg){: .mx-auto.d-block :}
 
-It can also be centered!
 
-![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
+### You've got mail
 
 {: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+**PSA:** I hope you're having a lovely day!
