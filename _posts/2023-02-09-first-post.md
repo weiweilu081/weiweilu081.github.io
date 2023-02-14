@@ -1,8 +1,8 @@
 ---
 layout: post
-title: FIRST POST!
-subtitle: attempt numero uno
-gh-repo: daattali/beautiful-jekyll
+title: Hallo!
+subtitle: Live From a Chill Monday Evening
+gh-repo: weiweilu081.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
@@ -10,13 +10,15 @@ comments: true
 
 ## Hi, welcome! 
 
-### You've got mail
+Nice to make your acquaintance! I'm Weiwei, a current senior studying sociology and comparative literature. I've had very limited programming experience that has been largely lost to the years, but I do (and love) sewing & making things! I'm hoping to learn basic programming in this class as well as get a chance to be creative with the final project.
+
+Here's a random photo of my friends and I doing a puzzle from my downloads folder, as a little treat :)
+
+![my and my friends!](https://weiweilu081.github.io/assets/img/IMG_9905_Large.jpeg)
+
+
+### Ding Dong! You've got mail
 
 {: .box-note}
 **PSA:** I hope you're having a lovely day!
-
-Today Pixel came to class and she's so cute! Here's a random photo of my friends and I doing a puzzle from my downloads folder as a little treat for your eyes :)
-
-
-![my and my friends!](https://weiweilu081.github.io/assets/img/IMG_9905_Large.jpeg)
 
