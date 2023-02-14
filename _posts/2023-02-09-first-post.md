@@ -20,5 +20,5 @@ Here's a random photo of my friends and I doing a puzzle from my downloads folde
 ### Ding Dong! You've got mail
 
 {: .box-note}
-**PSA:** I hope you're having a lovely day!
+**You made it!** I hope you're having a lovely day!
 
