@@ -4,13 +4,13 @@ title: Hallo!
 subtitle: Live From a Chill Monday Evening
 gh-repo: weiweilu081.github.io
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [Assignments]
 comments: true
 ---
 
 ## Hi, welcome! 
 
-Nice to make your acquaintance! I'm Weiwei, a current senior studying sociology and comparative literature. I've had very limited programming experience that has been largely lost to the years, but I do (and love) sewing & making things! I'm hoping to learn basic programming in this class as well as get a chance to be creative with the final project. I bet you didn't know that one of my favourite plants is the dandelion, but now you do!
+Pleased to make your acquaintance! I'm Weiwei, a current senior studying sociology and comparative literature. I've had very limited programming experience that has been largely lost to the years, but I do (and love) sewing & making things! I'm hoping to learn basic programming in this class as well as get a chance to be creative with the final project. I bet you didn't know that one of my favourite plants is the dandelion, but now you do!
 
 Here's a random photo of my friends and I doing a puzzle from my downloads folder, as a little treat :)
 
