@@ -52,7 +52,7 @@ social-network-links:
   email: "wl8@williams.edu"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: daattali
+  github: weiweilu081
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: c/daattali
@@ -87,14 +87,14 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  linkedin: true
+  twitter: false
+  facebook: false
+  linkedin: false
   vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "weiweilu081.github.io/"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -125,17 +125,17 @@ navbar-var-length: false
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
+navbar-col: "#dec8da"
 navbar-text-col: "#1c2236"
 navbar-border-col: "#a3c4d6"
 page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#9c67c7"
 hover-col: "#c497e8"
-footer-col: "#EAEAEA"
+footer-col: "#dec8da"
 footer-text-col: "#1c2236"
-footer-link-col: "#404040"
-footer-hover-col: "#0085A1"
+footer-link-col: "#9c67c7"
+footer-hover-col: "#c497e8"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
