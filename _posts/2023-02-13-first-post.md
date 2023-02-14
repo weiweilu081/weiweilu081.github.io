@@ -2,7 +2,6 @@
 layout: post
 title: Hallo!
 subtitle: Live From a Chill Monday Evening
-gh-repo: weiweilu081.github.io
 gh-badge: [star, fork, follow]
 tags: [Assignments]
 comments: true
