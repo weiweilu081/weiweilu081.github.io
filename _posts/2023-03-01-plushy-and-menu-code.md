@@ -15,9 +15,9 @@ The menu assignment gives the user a meal option from either a regular or secret
 
 To be honest, I'm not entirely sure if I did either of these assignments correctly since I've had an insane past few days — but they do both use if blocks, and both code solidly works! One tip for future me is to PLEASE LEARN TO PRIORITIZE YOUR TIME BETTER so I can make it to TA hours next time. 
 
-# Plushy code output example
+### Plushy code output example
 ![plushy code output](https://weiweilu081.github.io/assets/img/plushy-redux-code-output.png)
 
-# Menu code output example
+### Menu code output example
 ![menu code output](https://weiweilu081.github.io/assets/img/menu-code-output.png)
 
