@@ -36,15 +36,11 @@ Thread, scissors, needle
 
 ### Revised Paper Prototype
 
-Screenshot of your revised paper prototype of your project
-Focus on the components and how you'll connect them in a circuit
-Must be legible! Digital images work well (i.e., grab component images from the Product WebsiteLinks to an external site., then connect them in PowerPoint or other image editing software).
-Will need to be a .JPG, .PNG, .GIF, etc in order to appear on your course website.
-Should look professional/polished.
+![paper prototype](https://weiweilu081.github.io/assets/img/paper-updated.jpg)
 
 ### Alligator prototype 
 
-![alligator](https://weiweilu081.github.io/assets/img/alligator.jpeg)
+![alligator prototype](https://weiweilu081.github.io/assets/img/alligator.jpeg)
 
 ### Working Videos 
 ---
