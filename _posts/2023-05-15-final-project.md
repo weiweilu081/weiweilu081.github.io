@@ -47,7 +47,7 @@ Should look professional/polished.
 ![alligator](https://weiweilu081.github.io/assets/img/alligator.jpeg)
 
 ### Working Videos 
-<video src="(https://github.com/weiweilu081/weiweilu081.github.io/assets/124541275/9ab69ce0-ec68-499c-b5e4-776c87c998b4)" controls="controls" style="max-width: 730px;"> 
+<video src="(https://github.com/weiweilu081/weiweilu081.github.io/assets/working1.MOV)" controls="controls" style="max-width: 730px;"> 
 </video>
  
 ![working vid 2] https://github.com/weiweilu081/weiweilu081.github.io/assets/124541275/3f83326f-f84c-4827-9016-0b5385b9be34
