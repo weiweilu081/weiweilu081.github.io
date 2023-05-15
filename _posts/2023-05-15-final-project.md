@@ -14,15 +14,25 @@ Have you ever wanted to go out fishing, but the river is contaminated with sewag
 ### Materials List
 
 2 RGB LEDs
+
 1 light sensor
+
 Conductive thread
+
 1 lilypad arduino
+
 1 battery power
+
 conductive thread
+
 Embroidery floss 
-Several snap-closure sewable metal buttons 
+
+Several snap-closure sewable metal buttons
+
 3 pieces of blue felt fabric that joins together to be ~3 ft long
+
 Thread, scissors, needle
+
 
 ### Revised Paper Prototype
 
@@ -37,7 +47,7 @@ Should look professional/polished.
 ![alligator](https://weiweilu081.github.io/assets/img/alligator.jpeg)
 
 ### Working Videos 
-![working vid 1] <video src="[LINK](https://github.com/weiweilu081/weiweilu081.github.io/assets/124541275/9ab69ce0-ec68-499c-b5e4-776c87c998b4)" controls="controls" style="max-width: 730px;"> 
+![working vid 1] <video src="(https://github.com/weiweilu081/weiweilu081.github.io/assets/124541275/9ab69ce0-ec68-499c-b5e4-776c87c998b4)" controls="controls" style="max-width: 730px;"> 
 </video>
  
 ![working vid 2] https://github.com/weiweilu081/weiweilu081.github.io/assets/124541275/3f83326f-f84c-4827-9016-0b5385b9be34
