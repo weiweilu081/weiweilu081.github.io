@@ -52,6 +52,7 @@ Thread, scissors, needle
  
 </video>
 
+**If the videos aren't working on the website, feel free to check them from my github! 
 
 ### 3 tips to my past self
 
