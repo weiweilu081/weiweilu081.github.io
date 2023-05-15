@@ -59,3 +59,7 @@ Thread, scissors, needle
 1. Embroidery takes much longer than you think. (I should've learned this from the first sewing assignment, but this project certainly hammered it home!)
 2. Only share pins when you want different parts to have the same behaviour! I had to make some modifications to my design because I didn't necessarily think this through before I sewed everything together. Everything all worked out in the end, but this still would've been helpful to keep in mind as I worked!
 3. Lastly, don't be afraid to improvise :) I didn't include the onboard LED flashing in my initial prototype but I'm quite pleased with the way it looked in the end. And I'm glad I came up with the concept of embroidering it into a sun, that ended up being quite cute!
+
+### Works cited
+This was the tutorial I used to help me embed my videos (not sure if it worked though, lol):
+https://www.cazzulino.com/github-pages-embed-video.html
