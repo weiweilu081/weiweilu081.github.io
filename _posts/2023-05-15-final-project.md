@@ -44,7 +44,8 @@ Thread, scissors, needle
 
 ### Working Videos 
 ---
-<video src="(https://github.com/weiweilu081/weiweilu081.github.io/assets/238455372-9ab69ce0-ec68-499c-b5e4-776c87c998b4.mov)" controls="controls" style="max-width: 730px;"> 
+<video src="https://github.com/weiweilu081/weiweilu081.github.io/assets/238455372-9ab69ce0-ec68-499c-b5e4-776c87c998b4.mov" class="d-block rounded-bottom-2 width-fit" style="max-height:640px;"> 
+ 
 </video>
  
 <video src="(https://github.com/weiweilu081/weiweilu081.github.io/assets/124541275/3f83326f-f84c-4827-9016-0b5385b9be34.mov)" controls="controls" style="max-width: 730px;"> 
